@@ -1,5 +1,4 @@
 * {
-  /*box-sizing: content-box;*/
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -8,8 +7,7 @@
 body {
   max-width: 360px;
   max-height: 4160px;
-  background-color: #494444;
-  /*изменить цвет*/
+  background-color: #131313;
 }
 
 .header {
@@ -17,7 +15,6 @@ body {
   width: 360px;
   height: 132px;
   align-items: flex-start;
-  /*gap сделать адаптивным*/
   gap: 168px;
   flex-shrink: 0;
   background: var(--black-bg, #131313);
@@ -185,7 +182,7 @@ body {
   margin: 30px 20px 38px 20px;
 }
 
-.yellow-content {
+.main {
   display: inline-flex;
   height: 1368px;
   padding: 40px 20px;
