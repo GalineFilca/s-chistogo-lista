@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 340 198">
-  <circle cx="60" cy="138" r="59.5" stroke="#FEE42A"/>
-  <path stroke="#F83C33" d="M245.61 127.209 262.524.92158 364.005 78.6371 245.61 127.209Z"/>
+<svg width="360" height="221" viewBox="0 0 360 221" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cover" clip-path="url(#clip0_1501_68)">
+<rect width="360" height="221" fill="#131313"/>
+<circle id="Ellipse 2" cx="81" cy="160" r="59.5" stroke="#FEE42A"/>
+<path id="Polygon 1" d="M266.61 150.209L283.524 23.9216L385.005 101.637L266.61 150.209Z" stroke="#F83C33"/>
+<line id="Line 1" x1="234.486" y1="207.884" x2="245.486" y2="253.884" stroke="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1501_68">
+<rect width="360" height="221" fill="white"/>
+</clipPath>
+</defs>
 </svg>
